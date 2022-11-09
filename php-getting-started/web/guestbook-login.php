@@ -6,7 +6,7 @@
     $username = mysqli_real_escape_string($conn,$_POST['username']);
     $password = mysqli_real_escape_string($conn,$_POST['password']);
     
-    $query = "SELECT * FROM USERACCOUNT WHERE username = '$username' AND password = '$password'";
+    $query = "SELECT * FROM useraccount WHERE username = '$username' AND password = '$password'";
     $result = mysqli_query($conn, $query);
     
     if (mysqli_num_rows($result) > 0) {
