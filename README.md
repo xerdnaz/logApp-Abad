@@ -95,7 +95,7 @@ _XAMPP is a free and open-source cross-platform web server solution stack packag
 # About the author :boy:
 
 <p align="left">
-    <img src="Me.jpg" width="350" height="500" style="display: block; margin: 0 auto""> </p>
+    <img src="Me.JPG" width="350" height="500" style="display: block; margin: 0 auto""> </p>
 
 **Mykel Zandrex Abad** is the author of logApp-Abad, recordsapp-abad, php-fiesta-cookie, htmlcss-octo-couscous, legendary-garbanzo, and LabHigh-CC6, a Github repositories. Computer Science student by day, lover by night, He is currently getting his degree in bachelor of Science in Computer Science from Palawan State University. A Filipino native, he is a lover of basketball, coffee, dougnuts, and beaches, currently residing at Puerto Princesa City, Palawan.
 You can visit his blog at (https://www.facebook.com/anatawa.bakadesu.790/)
